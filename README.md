@@ -8,7 +8,7 @@ Building production-grade AI systems, distributed applications, and scalable bac
 
 Interested in designing systems where AI, infrastructure, and software engineering intersect to create reliable and deployable products.
 
-[Portfolio](https://samarth-xi.vercel.app/) • [LinkedIn](https://linkedin.com/in/samarth-vinayaka-934973a7) • [GitHub](https://github.com/samarth1412) • [Email](mailto:samarthvinayaka@gmail.com)
+[Portfolio](https://samarth-xi.vercel.app/) • [LinkedIn](https://linkedin.com/in/samarth-vinayaka-934973a7) • [GitHub](https://github.com/samarth1412) • [Email](https://mail.google.com/mail/?view=cm&fs=1&to=samarthvinayaka@gmail.com)
 
 ---
 
